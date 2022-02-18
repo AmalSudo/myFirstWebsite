@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MEET AMAL ZAIDAN</title>
+	<navbar>
+		<ul style= "list-style-type: none"> 
+			<li style= "float:left ; width:100px ; background-color: pink ; padding-top: 10px ; padding-bottom: 10px ; padding-left: 50px"><a href= "my1stwebsite.html" style= "text-decoration: none; color:black"">Home</a></li>
+			<li style= "float:left; width:100px ; background-color: pink ; padding-top: 10px ; padding-bottom: 10px"><a href= "page2.html"  target="_blank" style= "text-decoration: none ; color:black"" >About</a> </li>
+		</ul>
+	</navbar>
+</head>
+<body>
+	<br><br><p>HELLO WORLD</p>
+	<p style= "background-color:pink" >I am Amal Zaidan,<br> a person from this world, a good one.</p>
+	<p>"always aim to be better than yesterday"</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P3frGoU8124" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<br>
+	<p>tap to move to the</p>
+	<a href= "page2.html"  target="_blank"> Next page </a>
+
+</body>
+</html>
